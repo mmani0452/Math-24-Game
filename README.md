@@ -13,7 +13,7 @@ Ensure you have a C compiler installed, such as `gcc`.
 1. **Clone The Repository**: 
    ```bash
    git clone <repository-url>
-   cd path-to-repository/Student-Database
+   cd path-to-repository/Math-24-Game
 2. **Compile The C File**:
    gcc -o Math_24 main.c
 3. **Run The Program**:
